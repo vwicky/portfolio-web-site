@@ -23,6 +23,30 @@
 
 }
 
+.project-card .tags-container {
+  display: flex;
+  margin: 3px 0px;
+  padding: 0px 0px;
+}
+
+.project-card .tags-container .tag-container {
+  /* background-color: aquamarine; */
+
+  color: rgb(255, 255, 255);
+  font-weight: normal;
+
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 0px 2px;
+  padding: 2px 4px;
+
+  transition: background-color, 0.3s;
+}
+.project-card .tags-container .tag-container:hover {
+  background-color: rgba(195, 255, 127, 0.738);
+}
+
+
 .project-card .summary-title {
 
 }

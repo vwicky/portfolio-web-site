@@ -23,6 +23,7 @@ function App() {
               name={project.name}
               dateSpan={project.dateSpan} 
               githubLink={project.githubLink} 
+              tags = {project.tags}
               description={project.description} 
             />
           ))
