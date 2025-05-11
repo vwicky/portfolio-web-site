@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Polish Jokes Generator",
+    "tags": [
+      "NPL", "LLM", "GPT-2", "LoRA", "QLoRA"
+    ],
+    "dateSpan": {
+      "from": "-",
+      "to": "now"
+    },
+    "githubLink": "https://github.com/vwicky/LLM-polish-jokes",
+    "description": "..."
+  },
+
+  {
+    "name": "CI Labs",
+    "tags": [
+      "CV", "NPL", "Regression", "Classification",
+      "Clusterisation", "Fuzzy Logic" 
+    ],
+    "dateSpan": {
+      "from": "24.02.2025",
+      "to": "now"
+    },
+    "githubLink": "https://github.com/vwicky/ci-labs",
+    "description": "..."
+  },
+
+  {
+    "name": "Animal Images Verifier",
+    "tags": [
+      "CV", "NER", "Classification" 
+    ],
+    "dateSpan": {
+      "from": "17.02.2025",
+      "to": "24.02.2025"
+    },
+    "githubLink": "https://github.com/vwicky/internship-ds-test",
+    "description": "..."
+  }
+]

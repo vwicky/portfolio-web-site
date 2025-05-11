@@ -1,8 +1,14 @@
-.my-info {
+.header-container {
+  height: 65px;
+  background-color: #EFEEEA;
+
   text-align: center;
 }
 
-.my-name {
+.header-container .title {
+  padding-top: 10px;
+  color: #FE7743;
+
   font-family: "Cascadia Code", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;

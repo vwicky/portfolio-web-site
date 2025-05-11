@@ -1,0 +1,29 @@
+.footer-container {
+  height: 100%;
+  background-color: #EFEEEA;
+
+  text-align: center;
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer-container .title {
+  padding-top: 10px;
+  color: #273F4F;
+}
+
+.section-container {
+  display: flex;
+}
+
+.footer-section {
+  flex: 1;
+  padding-top: 8px;
+}
+
+.footer-section h2 {
+  font-family: "Cascadia Code", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
